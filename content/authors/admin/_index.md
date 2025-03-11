@@ -62,8 +62,8 @@ education:
       Courses included: - English course
   - area: 
     institution: YFC
-    date_start: 12-12-2021
-    date_end: 06-06-2023
+    date_start: 2021-12-12
+    date_end: 2023-06-06
     summary: |
       GPA: 3.4/4.0
       
