@@ -75,7 +75,7 @@ work:
     company_logo: ''
     date_start: 
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
   - position: 
     company_name: X
@@ -92,14 +92,14 @@ skills:
   - name: Skills
     items:
       - name: Programming
-        description: 'Я учусь программировать на C++'
+        description: ''
         percent: 40
         icon: code-bracket
       - name: Languages
-        description: 'I'm very good at learning languages. I speak Portuguese, Spanish, French...'
+        description: ''
         percent: 80
         icon: chart-bar
-      - name:
+      - name: SQL
         description: ''
         percent: 80
         icon: circle-stack
