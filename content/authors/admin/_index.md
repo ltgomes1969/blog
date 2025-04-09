@@ -89,35 +89,35 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: Python
+      - name: Programming
+        description: 'Я учусь программировать на C++'
+        percent: 40
+        icon: code-bracket
+      - name: Languages
+        description: 'I'm very good at learning languages. I speak Portuguese, Spanish, French...'
+        percent: 80
+        icon: chart-bar
+      - name:
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Anime
+        description: 'I love anime'
         percent: 100
+        icon: person-simple-walk
+      - name: Documentary
+        description: 'I like watching documentaries'
+        percent: 70
         icon: cat
       - name: Photography
-        description: ''
-        percent: 80
+        description: 'I like to photograph landscapes'
+        percent: 50
         icon: camera
 
 languages:
