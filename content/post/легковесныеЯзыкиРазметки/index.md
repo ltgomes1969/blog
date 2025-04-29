@@ -1,22 +1,24 @@
 ---
-title: Легковесные языки разметки
-summary: Язык разметки markdown
-date: 2025-09-04
+title:  Легковесные языки разметки
+summary: Оброзм Git
+date: 2023-04-09
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](unsplash.png)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
-  - Гомес Лопес Теофания
+  - Гомес Лопес
 
 tags:
   - Academic
   - Markdown
   - Git
 ---
+
+Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
@@ -38,3 +40,10 @@ Textile — старый, но удобный язык для блогов.
 ## Итог
 
 Легковесные языки разметки — это удобный инструмент для тех, кто хочет быстро и просто оформить текст. Они помогают писать красиво и понятно без сложных программ. Эти языки подходят как для начинающих, так и для опытных пользователей. Благодаря им, работа с текстами становится легче и приятнее.
+
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.

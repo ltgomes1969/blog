@@ -33,9 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'lopesteofania3@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-
+  - icon: brands/github
+    url: https://github.com/ltgomes1969
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Teofania-Lopes?ev=hdr_xprf
+  - icon: brands/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0003-1616-5037
 
 interests:
   - Artificial Intelligence
